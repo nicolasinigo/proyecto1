@@ -31,3 +31,7 @@
     75% {margin-left:-300%;}
     100% {margin-left:-300%;}
 }
+img.pequeña{
+    width: 20px;
+    height: 20px;
+  }
