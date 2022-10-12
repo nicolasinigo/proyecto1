@@ -46,3 +46,28 @@ img.pequeña{
     justify-content: center;
     align-items: center;
 }
+/*PAGINA ERROR 404*/
+#bodyerror {
+    background: white;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+#errorimg{
+    width: 50%;
+}
+#error404{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+#errorbutton{
+    background: cornflowerblue;
+    padding: 15px 30px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+}
