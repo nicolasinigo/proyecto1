@@ -54,7 +54,7 @@ img.pequeña{
     height: 100vh;
 }
 #errorimg{
-    width: 50%;
+    width: 35%;
 }
 #error404{
     height: 100vh;
@@ -70,4 +70,11 @@ img.pequeña{
     border-radius: 15px;
     border: none;
     color: white;
+}
+/*IMAGENES DE AUTOS*/
+imgautos{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 30px;
+    object-fit: cover;
 }
